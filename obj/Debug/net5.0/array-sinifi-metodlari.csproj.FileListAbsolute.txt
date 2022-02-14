@@ -1,0 +1,16 @@
+C:\Users\Poseidon\Desktop\Pratikler\array-sinifi-metodlari\bin\Debug\net5.0\array-sinifi-metodlari.exe
+C:\Users\Poseidon\Desktop\Pratikler\array-sinifi-metodlari\bin\Debug\net5.0\array-sinifi-metodlari.deps.json
+C:\Users\Poseidon\Desktop\Pratikler\array-sinifi-metodlari\bin\Debug\net5.0\array-sinifi-metodlari.runtimeconfig.json
+C:\Users\Poseidon\Desktop\Pratikler\array-sinifi-metodlari\bin\Debug\net5.0\array-sinifi-metodlari.runtimeconfig.dev.json
+C:\Users\Poseidon\Desktop\Pratikler\array-sinifi-metodlari\bin\Debug\net5.0\array-sinifi-metodlari.dll
+C:\Users\Poseidon\Desktop\Pratikler\array-sinifi-metodlari\bin\Debug\net5.0\ref\array-sinifi-metodlari.dll
+C:\Users\Poseidon\Desktop\Pratikler\array-sinifi-metodlari\bin\Debug\net5.0\array-sinifi-metodlari.pdb
+C:\Users\Poseidon\Desktop\Pratikler\array-sinifi-metodlari\obj\Debug\net5.0\array-sinifi-metodlari.csproj.AssemblyReference.cache
+C:\Users\Poseidon\Desktop\Pratikler\array-sinifi-metodlari\obj\Debug\net5.0\array-sinifi-metodlari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Poseidon\Desktop\Pratikler\array-sinifi-metodlari\obj\Debug\net5.0\array-sinifi-metodlari.AssemblyInfoInputs.cache
+C:\Users\Poseidon\Desktop\Pratikler\array-sinifi-metodlari\obj\Debug\net5.0\array-sinifi-metodlari.AssemblyInfo.cs
+C:\Users\Poseidon\Desktop\Pratikler\array-sinifi-metodlari\obj\Debug\net5.0\array-sinifi-metodlari.csproj.CoreCompileInputs.cache
+C:\Users\Poseidon\Desktop\Pratikler\array-sinifi-metodlari\obj\Debug\net5.0\array-sinifi-metodlari.dll
+C:\Users\Poseidon\Desktop\Pratikler\array-sinifi-metodlari\obj\Debug\net5.0\ref\array-sinifi-metodlari.dll
+C:\Users\Poseidon\Desktop\Pratikler\array-sinifi-metodlari\obj\Debug\net5.0\array-sinifi-metodlari.pdb
+C:\Users\Poseidon\Desktop\Pratikler\array-sinifi-metodlari\obj\Debug\net5.0\array-sinifi-metodlari.genruntimeconfig.cache

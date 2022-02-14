@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "array-sinifi-metodlari/1.0.0": {
+        "runtime": {
+          "array-sinifi-metodlari.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "array-sinifi-metodlari/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
